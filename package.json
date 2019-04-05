@@ -1,8 +1,6 @@
 {
-  "name": "vueschool-forum",
-  "version": "1.0.0",
-  "description": "Awesome full blown mega madness forum",
-  "author": "Alex Kyriakidis <hootlex@icloud.com>",
+  "name": "test-two",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
